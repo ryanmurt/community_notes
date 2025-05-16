@@ -1,7 +1,7 @@
 tweetId,is_covid,got_shown,true?,views,,,,
 1741056280473587978,TRUE,1,opinion,"117,600",,sample size,,
 1732615713938964777,TRUE,1,FALSE,"787,600",,,0.09,not covid rate
-1785018893708484966,TRUE,1,FALSE,"133,500",,20,0.10,false positive rate
+1785018893708484966,TRUE,1,FALSE,"133,500",,20,0.1,false positive rate
 1604955343402029072,TRUE,1,,,not covid,30,0.17,false positive rate
 1787947138124837042,TRUE,1,gone,,,40,0.18,false positive rate
 1685408574464258048,TRUE,1,FALSE,"145,100",,,,
