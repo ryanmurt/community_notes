@@ -7,8 +7,8 @@ Misinformation plays a powerful role in shaping events, decisions, and perceptio
 
 Community Notes source data is available here: https://x.com/i/communitynotes/download-data
 
-00_preprocessed_data.ipynb contains all code needed to install necessary libraries, load and merge source data, identify English language community notes, and saves file 'df.csv' to current directory. See CONFIGURATION in 3rd cell to read in data files.
+**00_preprocessed_data.ipynb** contains all code needed to install necessary libraries, load and merge source data, identify English language community notes, and saves file 'df.csv' to current directory. See CONFIGURATION in 3rd cell to read in data files.
 
-01_data_analysis.ipynb reads in file 'df.csv', and contains code to run all exploratory data analysis.
+**01_data_analysis.ipynb** reads in file 'df.csv', and contains code to run all exploratory data analysis.
 
 
