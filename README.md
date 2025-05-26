@@ -4,21 +4,9 @@ Misinformation is a major force in global affairs. In late 2022, Twitter (now X)
 
 Repo Organization:
 
-community_notes_data
+Community Notes source data is available here: https://x.com/i/communitynotes/download-data
 
-00_preprocessed_data.ipynb
-01_data_analysis.ipynb
+00_preprocessed_data.ipynb contains all code needed to install necessary libraries, load and merge source data, and identify English language community notes, and saves file 'df.csv' to current directory. See CONFIGURATION in 3rd cell to read in data files.
 
-.
-├── data/ 
-├── src/
-│   ├── module1/
-│   └── module2/
-├── notebooks/
-├── scripts/
-├── tests/
-├── docs/
-├── .gitignore
-├── requirements.txt
-├── README.md
-└── LICENSE
+01_data_analysis.ipynb reads in file 'df.csv', and contains code to run all exploratory data analysis.
+
