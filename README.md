@@ -11,4 +11,7 @@ Community Notes source data is available here: https://x.com/i/communitynotes/do
 
 **01_data_analysis.ipynb** reads in file 'df.csv', and contains code to run all exploratory data analysis.
 
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
